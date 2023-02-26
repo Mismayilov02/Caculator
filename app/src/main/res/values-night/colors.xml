@@ -7,12 +7,11 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="cardiev_color">#FCF8F6F6</color>  <!--FCF8F6F6 cardview-->
+    <color name="cardiev_color">#2C2B2B</color>
+    <color name="btn_color">#222121</color>
+    <color name="text_color">#FFFFFFFF</color>
+    <color name="text_color_ansver">#FFFFFFFF</color>
     <color name="white2">#6C6B6B</color>
-    <color name="btn_color">#FFFFFFFF</color>
-    <color name="text_color_ansver">#FF000000</color>
-    <color name="text_color">#FF000000</color>
-
     <color name="light_white">#B8B7B7</color>
     <color name="light_black">#2C2B2B</color>
     <color name="button_color_black">#222121</color>

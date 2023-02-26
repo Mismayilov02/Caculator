@@ -2,11 +2,11 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/moon_menu"
-        android:icon="@drawable/moon"
-        android:title="Moon" />
-    <item
         android:id="@+id/sun_menu"
         android:icon="@drawable/sun"
         android:title="Sun" />
+    <item
+        android:id="@+id/moon_menu"
+        android:icon="@drawable/moon"
+        android:title="Moon" />
 </menu>
